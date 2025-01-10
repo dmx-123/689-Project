@@ -160,9 +160,4 @@ To change the material properties, MatCon.csv is used where only the values must
 ## Physical
 - The variation in material properties K(x), $\rho(x)$ and $C_{p}(x)$ is not considered in formulating the governing equations.
 - For felt, we assume that it fails anyway, we do not consider it's crystalization when checking for glass temperature of other interior materials. 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
